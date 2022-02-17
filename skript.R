@@ -4,7 +4,7 @@
 rm(list = ls())
 invisible(gc())
 
-
+# Peter testar att lägga till en meningslös rad text i Björns skript, ta gärna bort denna
 
 #---------------------------------------------------------------------------------------------------
 # Libraries
